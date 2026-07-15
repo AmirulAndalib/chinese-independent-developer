@@ -37,6 +37,9 @@
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
 * :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手,选中文本或截图直接提问,自定义快捷键和提示词,支持 ChatGPT/Claude/Telegram 等 10 个平台,完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
 
+#### Mr.Baoboer(北京) - [Github](https://github.com/MasterBao66)
+* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：一款轻量且优雅的“实时工资”小软件，可基于用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化 - [更多介绍](https://github.com/MasterBao66/PayDance)
+
 #### NiYongsheng - [Github](https://github.com/niyongsheng)
 * :white_check_mark: [Moler](https://github.com/niyongsheng/moler)：NASA-Punk 风格的 Mac 磁盘清理工具，支持重复文件扫描、大文件检测、应用卸载和磁盘概览 - [更多介绍](https://niyongsheng.github.io/moler/)
 * :white_check_mark: [MythPen](https://github.com/niyongsheng/mythpen)：桌面端 AI 辅助小说创作工具，管理角色、世界观、章节、伏笔和时间线等写作要素 - [更多介绍](https://niyongsheng.github.io/mythpen/index.html)
@@ -87,9 +90,6 @@
 
 #### zxcHolmes - [Github](https://github.com/zxcHolmes)
 * :white_check_mark: [iOS 截图装饰](https://app-shots.aibit.im/)：免费在线 iOS 截图美化生成器，在浏览器中把应用截图变成规范的 App Store 上架素材
-
-#### Mr.Baoboer - [Github](https://github.com/MasterBao66)
-* :white_check_mark: [薪跳 PayDance](https://paydance.vercel.app/)：轻量实时工资小软件，基于薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值可视化
 
 #### ZingLix - [Github](https://github.com/ZingLix), [博客](https://zinglix.xyz)
 * :white_check_mark: [Sillage](https://github.com/ZingLix/Sillage/blob/main/README.zh-CN.md)：把足迹、火车、飞机、酒店放在一起记录的旅行 App，可按时间轴与照片一起回放探索过程，支持导入航旅纵横、12306 等数据
