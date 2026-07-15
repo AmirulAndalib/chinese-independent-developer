@@ -27,7 +27,7 @@
 
 ### 2026 年 7 月 15 号添加
 #### 小小电子xxdz | 北京 - [Github](https://github.com/xxdz-Official),[哔哩哔哩](https://space.bilibili.com/3461569935575626),[博客](https://xxdz-official.github.io/x)
-* :white_check_mark: [ShangBackground][https://github.com/xxdz-Official/ShangBackground]：Windows桌面右键壁纸管理工具，内置大量切换动画，可视化高度自定义壁纸效果，Python开源桌面程序
+* :white_check_mark: [ShangBackground][https://github.com/xxdz-Official/ShangBackground]：Windows桌面右键壁纸管理工具，实现“上一个桌面背景”的右键菜单，并且有多种壁纸模式，直接切换到某一壁纸、还可以自定义切换动画等实用功能
 * :white_check_mark: [xxdz-Itoc][https://github.com/xxdz-Official/xxdz-Itoc]：全球首款可视化Crazy Error真程序制作软件，基础部分无需编程，导入MIDI即可快速搭建卡点Windows弹窗可执行程序
 * :white_check_mark: [biliJiyin][https://github.com/xxdz-Official/biliJiyin]：浏览器油猴脚本，一键改造B站播放页，去除视频界面转为纯粹音乐播放器
 * :white_check_mark: [BiliLike-Counter][https://github.com/xxdz-Official/BiliLike-Counter]：浏览器油猴脚本，一键统计B站账号全部稿件总点赞数据，直观展示账号获赞总量
