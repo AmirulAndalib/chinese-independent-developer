@@ -26,6 +26,17 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### zeplios(北京) - [Github](https://github.com/zeplios)
+* :white_check_mark: [历史图轴](https://www.congta.com/maptime)：历史时间轴与地图的结合，把通史/断代史/历史人物、时间、地图联动起来，有网页版和微信小程序
+* :white_check_mark: [历史人物传记](https://www.congta.com/biog)：基于中国历史人物传记数据库（CBDB）构建的可视化网站，包括历史人物信息、人际关系图、世系图、五朝任职图
+* :white_check_mark: [一字成名](https://www.congta.com/app/naming)：给宝宝起名的微信小程序，集成国学起名、诗词取名、AI 取名，支持候选集功能和家人投票
+
+#### liuluopeng(乌鲁木齐) - [Github](https://github.com/liuluopeng)
+* :white_check_mark: [玻璃涂鸦](https://glaspen2.liuluopeng.site)：全屏标记软件，屏蔽数位笔默认鼠标行为，实现在显示器前加了一面玻璃做笔记
+
+#### ethanethan(上海)
+* :white_check_mark: [Haven](https://havenai.cn/)：vibe coding 部署平台，上传 ZIP 或连接 GitHub/Gitee，AI 梳理需求并补齐支付、多用户、日志安全、运维等环节，一天内交付可对外服务的产品
+
 #### 清溪 - [Github](https://github.com/qingxi2058)
 * :white_check_mark: [ExcaliRec](https://excalirec.com/)：浏览器白板录屏工具，面向 Excalidraw 风格讲解视频，支持自动聚焦缩放和本地录制，无需安装或注册
 
